@@ -1,0 +1,26 @@
+.search{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.search__section{
+  display: flex;
+  /* flex-direction: column; */
+}
+.search__input{
+  height: 40px;
+  width: 50%;
+  margin-top: 30px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 42px;
+  padding: 0 10px;
+  font: 1.6em sans-serif;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #212121;
+  border: 1;
+  border-radius: 4px 0 0 4px;
+  margin-bottom: 2%;
+}
